@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dell Latitude D620 – Windows XP to Linux Conversion
 
 ## Overview
@@ -146,3 +147,7 @@ The final system provides:
 - Extended usability of legacy hardware
 
 This conversion highlights the value of lightweight Linux distributions in extending the life of older systems while maintaining safety and usability.
+=======
+# Dell-D620-XP-to-Linux-Conversion
+Converting a Dell Latitude D620 laptop from Windows XP to a lightweight Lubuntu Linux system.
+>>>>>>> 3f66231395695d9ba135717b173e18a94cf93239
