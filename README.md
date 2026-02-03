@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dell Latitude D620 – Windows XP to Linux Conversion
 
 ## Overview
