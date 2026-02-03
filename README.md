@@ -82,10 +82,10 @@ Due to limitations of the Dell Latitude D620 BIOS, USB booting proved unreliable
 
 The Lubuntu 24.04 LTS installer was launched from DVD:
 
-![Lubuntu installation step](screenshots/10-install-Lubuntu1.jpg)
-![Lubuntu installation step](screenshots/11-install-Lubuntu2.jpg)
-![Lubuntu installation step](screenshots/12-install-Lubuntu3.jpg)
-![Lubuntu installation step](screenshots/13-install-Lubuntu4.jpg)
+![Lubuntu installation step](screenshots/10-install_Lubuntu1.jpg)
+![Lubuntu installation step](screenshots/11-install_Lubuntu2.jpg)
+![Lubuntu installation step](screenshots/12-install_Lubuntu3.jpg)
+![Lubuntu installation step](screenshots/13-install_Lubuntu4.jpg)
 
 ![Lubuntu login screen](screenshots/14-Lubuntu_login.jpg)
 
@@ -148,6 +148,4 @@ The final system provides:
 
 This conversion highlights the value of lightweight Linux distributions in extending the life of older systems while maintaining safety and usability.
 =======
-# Dell-D620-XP-to-Linux-Conversion
-Converting a Dell Latitude D620 laptop from Windows XP to a lightweight Lubuntu Linux system.
->>>>>>> 3f66231395695d9ba135717b173e18a94cf93239
+
