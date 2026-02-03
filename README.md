@@ -13,7 +13,7 @@ Because upgrading this system to a modern version of Windows would be impractica
 
 The system originally booted into Windows XP.
 
-![Windows XP boot screen](screenshots/00-XPboot.png)
+![Windows XP boot screen](screenshots/00-XPboot.jpg)
 
 ---
 
@@ -26,7 +26,7 @@ The Dell Latitude D620 hardware specifications are as follows:
 - **Storage:** 80 GB HDD  
 - **Optical Drive:** CD-RW / DVD  
 
-![Windows XP system properties](screenshots/01-winxp_system.png)
+![Windows XP system properties](screenshots/01-winxp_system.jpg)
 
 These specifications significantly restrict which modern operating systems can be installed and used reliably.
 
@@ -48,9 +48,9 @@ After evaluating several lightweight Linux distributions, the following options 
 
 Before modifying the system, important files stored on the Windows XP installation were backed up to external media.
 
-![Transferring files to USB](screenshots/02-winxp_filetransfer.png)
+![Transferring files to USB](screenshots/02-winxp_filetransfer.jpg)
 
-![Files safely backed up to USB](screenshots/03-winxp_usbbackup.png)
+![Files safely backed up to USB](screenshots/03-winxp_usbbackup.jpg)
 
 This ensured that no personal data would be lost during the operating system replacement.
 
@@ -60,17 +60,17 @@ This ensured that no personal data would be lost during the operating system rep
 
 To begin the installation process, the Lubuntu installation media was prepared.
 
-![Lubuntu download page](screenshots/04-Lubuntu_download_page.png)
+![Lubuntu download page](screenshots/04-Lubuntu_download_page.jpg)
 
 Initially, the plan was to burn the Lubuntu ISO to disc. However, only CD-RW media was available, which is insufficient for modern Linux ISOs. As an alternative, a bootable USB drive was created using Rufus.
 
-![Rufus download page](screenshots/05-Rufus_dl_page.png)
+![Rufus download page](screenshots/05-Rufus_dl_page.jpg)
 
-![Creating bootable USB with Rufus](screenshots/06-Rufus_create_bootable_usb.png)
+![Creating bootable USB with Rufus](screenshots/06-Rufus_create_bootable_usb.jpg)
 
-![Lubuntu ISO on USB](screenshots/07-Lubuntu_ISO_USB.png)
+![Lubuntu ISO on USB](screenshots/07-Lubuntu_ISO_USB.jpg)
 
-![Attempting to boot Lubuntu 24.04 from USB](screenshots/08-booting_24.04_from_USB.png)
+![Attempting to boot Lubuntu 24.04 from USB](screenshots/08-booting_24.04_from_USB.jpg)
 
 ---
 
@@ -78,16 +78,16 @@ Initially, the plan was to burn the Lubuntu ISO to disc. However, only CD-RW med
 
 Due to limitations of the Dell Latitude D620 BIOS, USB booting proved unreliable and resulted in inconsistent behavior. To ensure reliable booting on this legacy system, installation media was recreated using a DVD.
 
-![Burning Lubuntu ISO to DVD](screenshots/09-Burning_ISO_to_DVD.png)
+![Burning Lubuntu ISO to DVD](screenshots/09-Burning_ISO_to_DVD.jpg)
 
 The Lubuntu 24.04 LTS installer was launched from DVD:
 
-![Lubuntu installation step](screenshots/10-install-Lubuntu1.png)
-![Lubuntu installation step](screenshots/11-install-Lubuntu2.png)
-![Lubuntu installation step](screenshots/12-install-Lubuntu3.png)
-![Lubuntu installation step](screenshots/13-install-Lubuntu4.png)
+![Lubuntu installation step](screenshots/10-install-Lubuntu1.jpg)
+![Lubuntu installation step](screenshots/11-install-Lubuntu2.jpg)
+![Lubuntu installation step](screenshots/12-install-Lubuntu3.jpg)
+![Lubuntu installation step](screenshots/13-install-Lubuntu4.jpg)
 
-![Lubuntu login screen](screenshots/14-Lubuntu_login.png)
+![Lubuntu login screen](screenshots/14-Lubuntu_login.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ This behavior was determined to be caused by the combination of:
 
 As a result, Lubuntu **22.04 LTS** was selected as a more suitable alternative due to its lighter memory footprint and better compatibility with legacy hardware.
 
-![Burning Lubuntu 22.04 ISO](screenshots/15-Lubuntu_22.04_burn.png)
+![Burning Lubuntu 22.04 ISO](screenshots/15-Lubuntu_22.04_burn.jpg)
 
 ---
 
@@ -110,19 +110,19 @@ As a result, Lubuntu **22.04 LTS** was selected as a more suitable alternative d
 
 The Lubuntu 22.04 LTS installer booted successfully from DVD.
 
-![Booting Lubuntu 22.04 from DVD](screenshots/16-22.04_boot_from_DVD.png)
+![Booting Lubuntu 22.04 from DVD](screenshots/16-22.04_boot_from_DVD.jpg)
 
-![Try or Install Lubuntu menu](screenshots/17-try-or-install-Lubuntu-22.04.png)
+![Try or Install Lubuntu menu](screenshots/17-try-or-install-Lubuntu-22.04.jpg)
 
-![Lubuntu home screen before installation](screenshots/18-Lubuntu_home_screen_before_22.04_install.png)
+![Lubuntu home screen before installation](screenshots/18-Lubuntu_home_screen_before_22.04_install.jpg)
 
-![Lubuntu 22.04 install icon](screenshots/19-Lubuntu_22.04_install_icon.png)
+![Lubuntu 22.04 install icon](screenshots/19-Lubuntu_22.04_install_icon.jpg)
 
-![Lubuntu 22.04 installer](screenshots/20-Lubuntu_22.04_installer.png)
+![Lubuntu 22.04 installer](screenshots/20-Lubuntu_22.04_installer.jpg)
 
-![Replacing Lubuntu 24.04 with 22.04](screenshots/21-Installing_22.04_removing_24.04.png)
+![Replacing Lubuntu 24.04 with 22.04](screenshots/21-Installing_22.04_removing_24.04.jpg)
 
-![Lubuntu 22.04 installation complete](screenshots/22-Lubuntu_installation_complete.png)
+![Lubuntu 22.04 installation complete](screenshots/22-Lubuntu_installation_complete.jpg)
 
 ---
 
@@ -130,7 +130,7 @@ The Lubuntu 22.04 LTS installer booted successfully from DVD.
 
 After installation, the system was updated to ensure it received the latest security patches.
 
-![Post-installation system updates](screenshots/23-Post_installation_updates.png)
+![Post-installation system updates](screenshots/23-Post_installation_updates.jpg)
 
 A total of **226 security updates** were applied.
 
